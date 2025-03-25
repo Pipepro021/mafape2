@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'mafape';
+  title = 'pabloxupalameando mi hijo en el valo';
 }
